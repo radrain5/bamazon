@@ -63,5 +63,5 @@ function promptCustomer() {
             chosenItem = results[i];
           }
         }
-  }
+    })
 }
